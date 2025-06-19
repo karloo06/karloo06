@@ -1,6 +1,6 @@
-# Hi, ich bin Karlo 👋
+# hi, ich bin karlo 👋
 
-Softwareentwickler – interessiert an (fast) allem in der IT-Welt.
+welcome to my world
 
 ---
 
@@ -21,6 +21,6 @@ Softwareentwickler – interessiert an (fast) allem in der IT-Welt.
 
 ## Über mich
 
-- 👨‍💻 Softwareentwickler  
-- 🌍 Neugierig auf alles rund um die IT  
-- 🎯 Zurzeit (noch) ohne Spezialisierung  
+- 👨‍💻 Software Engineer
+- 🌍
+-  🎯   
