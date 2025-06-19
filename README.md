@@ -1,10 +1,10 @@
-# hi, ich bin karlo 👋
+# hi, im karlo 👋
 
 welcome to my world
 
 ---
 
-## 🛠️ Technologien & Tools
+## 🛠️ technologies i use/used
 
 <div align="center">
   
