@@ -22,5 +22,5 @@ welcome to my world
 ## Über mich
 
 - 👨‍💻 Software Engineer
-- 🌍
--  🎯   
+- 🌍 the best of the best
+- 🎯 nr 1
